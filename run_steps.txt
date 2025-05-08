@@ -1,0 +1,7 @@
+method 1 :
+click the bat file 
+
+method 2 :
+cd C:\Users\MOHIT\OneDrive\Desktop\calculator
+venv\scripts\activate
+python calculator.py
